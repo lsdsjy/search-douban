@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Douban Movie</ShortName>
+  <Description>Douban Movie</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://img1.doubanio.com/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://search.douban.com/movie/subject_search?search_text={searchTerms}"/>
+</OpenSearchDescription>
